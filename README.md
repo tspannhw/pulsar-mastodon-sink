@@ -22,3 +22,4 @@ curl https://mastodon.social/api/v1/streaming/public
 * https://mastodonpy.readthedocs.io/en/1.8.0/
 * https://mastodonpy.readthedocs.io/en/1.8.0/10_streaming.html
 * https://martinheinz.dev/blog/86
+* https://docs.joinmastodon.org/methods/streaming/#streams
