@@ -64,6 +64,26 @@ key:[20230117222421_069e9afb-7b4a-481e-b5d3-40c03e421415], properties:[], conten
  "statuses_count": 51576
 }
 
+----- got message -----
+key:[20230117223725_f68a866e-1df1-4d5d-b977-eb151535f240], properties:[], content:{
+ "language": "en",
+ "created_at": "2023-01-17 22:37:25.347000+00:00",
+ "ts": 20230117223725.0,
+ "uuid": "20230117223725_f68a866e-1df1-4d5d-b977-eb151535f240",
+ "uri": "https://mastodon.social/users/PaaSDev/statuses/109706939291797415",
+ "url": "https://mastodon.social/@PaaSDev/109706939291797415",
+ "favourites_count": 0,
+ "replies_count": 0,
+ "reblogs_count": 0,
+ "content": "<p>I am working on an Apache Pulsar streaming application in Python to ingest mastodon messages.   <a href=\"https://github.com/tspannhw/pulsar-mastodon-sink\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/tspannhw/pulsar-mas</span><span class=\"invisible\">todon-sink</span></a></p>",
+ "username": "PaaSDev",
+ "accountname": "PaaSDev",
+ "displayname": "",
+ "note": "",
+ "followers_count": 0,
+ "statuses_count": 1
+}
+
 ````
 
 ## Get Schema from Pulsar Schema Registry
