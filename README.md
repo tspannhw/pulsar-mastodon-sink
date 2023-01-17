@@ -2,12 +2,14 @@
 Mastodon data streaming
 
 
+## Run the app
+
 ````
+python3 stream.py
 
-getting data raw
-
-curl https://mastodon.social/api/v1/streaming/public
-
+2023-01-17 17:28:17.197 INFO  [0x16ec2b000] HandlerBase:72 | [persistent://public/default/mastodon-partition-0, ] Getting connection from pool
+2023-01-17 17:28:17.200 INFO  [0x16ec2b000] ProducerImpl:190 | [persistent://public/default/mastodon-partition-0, ] Created producer on broker [127.0.0.1:56776 -> 127.0.0.1:6650]
+20230117222817.0
 
 ````
 
