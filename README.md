@@ -232,6 +232,7 @@ n
 * https://mastodonpy.readthedocs.io/en/1.8.0/10_streaming.html
 * https://martinheinz.dev/blog/86
 * https://docs.joinmastodon.org/methods/streaming/#streams
+* https://docs.joinmastodon.org/client/intro/
 
 
 https://hachyderm.io/api/v1/streaming/public
